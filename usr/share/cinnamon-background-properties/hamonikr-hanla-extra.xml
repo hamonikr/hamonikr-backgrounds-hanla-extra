@@ -4,7 +4,7 @@
 
 <wallpaper deleted="false">
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg1.jpg</filename>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg01.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -14,7 +14,7 @@
 
 <wallpaper deleted="false">
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg2.jpg</filename>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg02.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -24,7 +24,7 @@
 
 <wallpaper deleted="false">
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg3.jpg</filename>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg03.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -34,7 +34,7 @@
 
 <wallpaper deleted="false">
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg4.jpg</filename>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg04.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -44,7 +44,7 @@
 
 <wallpaper deleted="false">
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg5.jpg</filename>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg05.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -54,7 +54,7 @@
 
 <wallpaper deleted="false">
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg6.jpg</filename>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg06.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -64,7 +64,7 @@
 
 <wallpaper deleted="false">
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg7.jpg</filename>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg07.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -74,7 +74,7 @@
 
 <wallpaper deleted="false">
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg8.jpg</filename>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg08.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -84,7 +84,7 @@
 
 <wallpaper deleted="false">
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg9.jpg</filename>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg09.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -165,6 +165,76 @@
 <wallpaper deleted="false">
     <name>HamoniKR</name>
     <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg17.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Pixabay</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg21.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Pixabay</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg22.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Pixabay</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg23.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Pixabay</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg24.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Pixabay</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg25.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Pixabay</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg26.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Pixabay</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/hamonikr-hanla-extra/bg27.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>

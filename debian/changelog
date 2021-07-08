@@ -1,3 +1,9 @@
+hamonikr-backgrounds-hanla-extra (1.1.0) hanla; urgency=low
+
+  * Add new hanla images
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 08 Jul 2021 10:51:03 +0900
+
 hamonikr-backgrounds-hanla-extra (1.0.0) hanla; urgency=low
 
   * Add hanla images
